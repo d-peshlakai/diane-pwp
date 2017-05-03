@@ -3,3 +3,7 @@
 	background-image: url(../images/dev-web.jpg);
 	background-size: cover;
 }
+
+section {
+	padding: 100px 0;
+}

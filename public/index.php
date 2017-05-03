@@ -120,8 +120,6 @@
 							</div>
 						</div>
 						<!-- /.container -->
-
-					</div>
 					<!-- /.intro-header -->
 				</a>
 			</header>
@@ -135,13 +133,12 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-lg-4 col-lg-offset-2">
-						<p>I completed the Deep Dive Coding Bootcamp program where I studied front and back-end web development. The
-							bootcamp prepared me to create creative mobile-friendly and secured websites.
-							I used HTML/CSS, PHP, Javascript, Bootstrap, AngularJS, and mySQL. I went from a pharmacy technician to web developer. It allows me to be creative and enjoy what I do. I work well with a team and I
-							love learning! Have a question? Please feel free to fill out the contact form
-							and send me a message.</p>
-						`
+					<div class="col-lg-4 col-lg-offset-4">
+						<p>Last summer I completed the Deep Dive Coding Bootcamp program where I studied front and back-end web development.
+							I went from a pharmacy technician to web developer to express my creativity. The bootcamp prepared me to create
+							creative mobile-friendly and secured websites. I used HTML/CSS, PHP, Javascript, Bootstrap, AngularJS, JQuery and
+							mySQL. It allows me to be creative and enjoy what I do. I work well with a team and I love learning! Have a question?
+							Please feel free to fill out the contact form and send me a message.</p>
 					</div>
 					<div class="col-lg-4">
 

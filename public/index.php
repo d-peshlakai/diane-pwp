@@ -95,12 +95,9 @@
 			<!-- Header -->
 			<header>
 				<a name="about">
-
 					<div class="intro-header">
 						<div class="about-container">
-
 							<div class="container">
-
 								<div class="row">
 									<div class="col-lg-12">
 										<div class="intro-message">
@@ -128,8 +125,6 @@
 					<!-- /.intro-header -->
 				</a>
 			</header>
-
-
 
 			<section class="about-block" id="about">
 				<div class="center">

@@ -102,7 +102,6 @@
 								<div class="row">
 									<div class="col-lg-12">
 										<div class="intro-message">
-											<span class="skills">Full Stack Web Developer</span>
 											<hr class="intro-divider">
 											<ul class="list-inline intro-social-buttons">
 												<li>
@@ -147,7 +146,7 @@
 				</div>
 			</section>
 			<!-- Footer -->
-			<footer>
+			<footer class="footer navbar fixed-bottom">
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-10 col-lg-offset-1 text-center">

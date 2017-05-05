@@ -1,13 +1,33 @@
 
-.intro-header {
-	background-image: url(../images/dev-web.jpg);
-	background-size: cover;
+/***
+* Flexbox Sticky Footer
+* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+***/
+
+/*corrects IE min-height bug*/
+html { display: flex;}
+body { width: 100%;}
+
+#about {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.intro-message {
+	text-align: center;
 }
 
 .about-block {
-	color: blue;
+	flex: 1 0 auto;
 }
 
-section {
-	padding: 100px 0;
+
+
+.intro-header {
+	background-image: url(../images/dev-web.jpg);
+	padding: 300px 0;
+	background-size: cover;
 }
+
+

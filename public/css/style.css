@@ -4,6 +4,9 @@
 	background-size: cover;
 }
 
+.about-block {
+	color: blue;
+}
 
 section {
 	padding: 100px 0;

@@ -24,6 +24,7 @@
 		<!----satisfy font style--->
 		<link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Just+Another+Hand" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet">
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>
@@ -180,9 +181,8 @@
 			<footer class="footer navbar fixed-bottom">
 				<div class="container">
 					<div class="row">
-						<div class="col-lg-10 col-lg-offset-1 text-center">
-							<h4><strong></strong>
-							</h4>
+						<div class="col-lg-10 col-lg-offset-1">
+							<h4>Location</h4>
 							<p>Albuquerque, NM</p>
 							<ul class="list-unstyled">
 								<li><i class="fa fa-phone fa-fw"></i></li>

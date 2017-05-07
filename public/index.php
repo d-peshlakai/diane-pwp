@@ -141,7 +141,9 @@
 							mySQL. It allows me to be creative and enjoy what I do. I work well with a team and I love learning! Have a question?
 							Please feel free to fill out the contact form and send me a message.</p>
 					</div>
+			</section>
 					<!--Contact Form---->
+			<div class="container">
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2">
 							<form class="form-horizontal" role="form" method="post" action="index.php">
@@ -176,7 +178,8 @@
 						</form>
 					</div>
 					</div>
-			</section>
+				</div>
+
 			<!-- Footer -->
 			<footer class="footer navbar fixed-bottom">
 				<div class="container">

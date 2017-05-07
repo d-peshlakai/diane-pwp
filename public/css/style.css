@@ -23,14 +23,6 @@ body { width: 100%;}
 	flex: 1 0 auto;
 }
 
-.col-md-8.col-md-offset-2 {
-	padding: 40px 100px;
-	background-color: black;
-
-}
-
-
-
 .intro-header {
 	background-image: url(../images/dev-web.jpg);
 	padding: 300px 0;

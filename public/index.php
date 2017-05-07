@@ -158,11 +158,18 @@
 								<i class="fa fa-desktop fa-stack-1x fa-inverse"></i>
 							</span>
 						</div>
+						<div class="col-md-4">
+							<span class="fa-stack fa-4x">
+								<i class="fa fa-circle fa-stack-2x text-muted"></i>
+								<i class="fa fa-mobile fa-stack-1x fa-inverse"></i>
+							</span>
+						</div>
 					</div>
 				</div>
 			</section>
 
 					<!--Contact Form---->
+			<section id="contact">
 			<div class="container">
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2">
@@ -196,9 +203,10 @@
 								</div>
 							</div>
 						</form>
-					</div>
+						</div>
 					</div>
 				</div>
+			</section>
 
 			<!-- Footer -->
 			<footer class="footer navbar fixed-bottom">

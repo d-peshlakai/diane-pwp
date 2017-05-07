@@ -142,10 +142,10 @@
 							Please feel free to fill out the contact form and send me a message.</p>
 					</div>
 					<!--Contact Form---->
-					<div class="container">
-					<div class="col-md-6 col-md-offset-3">
-						<form class="form-horizontal" role="form" method="post" action="index.php">
-							<div class="form-group">
+						<div class="row">
+							<div class="col-md-8 col-md-offset-2">
+							<form class="form-horizontal" role="form" method="post" action="index.php">
+								<div class="form-group">
 								<label for="name" class="col-sm-2 control-label">Name</label>
 								<div class="col-sm-10">
 									<input type="text" class="form-control" id="name" name="name" placeholder="First & Last Name" value="">
@@ -175,7 +175,7 @@
 							</div>
 						</form>
 					</div>
-				</div>
+					</div>
 			</section>
 			<!-- Footer -->
 			<footer class="footer navbar fixed-bottom">

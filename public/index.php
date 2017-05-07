@@ -145,9 +145,11 @@
 			<!--Tools--->
 			<section id="services">
 				<div class="center">
-					<div class="row">
-						<div class="col-lg-12">
-
+					<div class="row text-center">
+						<div class="col-md-4">
+							<span class="fa-stack fa-4x">
+							<i class="fa fa-code" aria-hidden="true"></i>
+							</span>
 						</div>
 					</div>
 				</div>

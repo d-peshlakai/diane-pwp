@@ -148,8 +148,14 @@
 					<div class="row text-center">
 						<div class="col-md-4">
 							<span class="fa-stack fa-4x">
-								<i class="fa fa-circle fa-stack-2x text-success"></i>
-							<i class="fa fa-code fa-stack-1x fa-inverse"></i>
+								<i class="fa fa-circle fa-stack-2x text-muted"></i>
+								<i class="fa fa-code fa-stack-1x fa-inverse"></i>
+							</span>
+						</div>
+						<div class="col-md-4">
+							<span class="fa-stack fa-4x">
+								<i class="fa fa-circle fa-stack-2x text-muted"></i>
+								<i class="fa fa-desktop fa-stack-1x fa-inverse"></i>
 							</span>
 						</div>
 					</div>

@@ -138,7 +138,8 @@
 						<p>Last summer I completed the Deep Dive Coding Bootcamp program where I studied front and back-end web development.
 							I went from a pharmacy technician to web developer to express my creativity. The bootcamp prepared me to create
 							creative mobile-friendly and secured websites. I used HTML/CSS, PHP, Javascript, Bootstrap, AngularJS, JQuery and
-							mySQL. It allows me to be creative and enjoy what I do. I work well with a team and I love learning! Have a question?
+							mySQL. It allows me to be creative and enjoy what I do. I work well with a team and I love learning! I'm currently
+							working on my own personal lifestyle blog with Wordpress. Have a question?
 							Please feel free to fill out the contact form and send me a message.</p>
 					</div>
 			</section>
@@ -172,8 +173,8 @@
 
 			<div class="container form-wrap">
 				<div class="row">
-					<div class="col-sm-9">
-						<h3>Send me a message</h3>
+					<div class="col-lg-12">
+						<h3>Send a message</h3>
 						<form id="contact-form" action="../php/mailer.php" method="post" novalidate>
 							<div class="form-group">
 								<label for="name">Name <span class="text-danger">*</span></label>

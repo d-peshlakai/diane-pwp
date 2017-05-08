@@ -37,10 +37,13 @@ h3 {
 	text-align: center;
 }
 
-.container {
+.container.form-wrap {
 	padding-right: 15px;
 	padding-left: 15px;
 	margin-right: auto;
 	margin-left: auto;
 }
 
+.col-lg-12 {
+	width: 100%;
+}

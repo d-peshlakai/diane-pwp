@@ -173,8 +173,8 @@
 
 			<div class="container form-wrap">
 				<div class="row">
-					<div class="col-lg-12">
-						<h3>Send a message</h3>
+					<div class="col-lg-8 col-lg-offset-2">
+						<h4>Send a message</h4>
 						<form id="contact-form" action="../php/mailer.php" method="post" novalidate>
 							<div class="form-group">
 								<label for="name">Name <span class="text-danger">*</span></label>

@@ -173,6 +173,7 @@
 			<div class="container">
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2">
+								<h3>Send a message</h3>
 							<form class="form-horizontal" role="form" method="post" action="index.php">
 								<div class="form-group">
 								<label for="name" class="col-sm-2 control-label">Name</label>

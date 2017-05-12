@@ -37,6 +37,24 @@ try {
 	//this takes the form of an associative array where the email is the key for the real name
 	$swiftMessage->setFrom([$email => $name]);
 
+	/**
+	 * attach the recipients to the message
+	 * $MAIL_RECIPIENTS is set in mail-config.php
+	 */
+	$recipients = $MAIL_RECIPIENTS;
+	$swiftMessage->setTo($recipients);
+
+	// attach the subject line to the message
+	$swiftMessage->setSubject($subject);
+
+	/**
+	 * attach the actual message to the message
+	 * here, we set two versions of the message: the HTML formatted message and a special filter_var()ed
+	 * version of the message that generates a plain text version of the HTML content
+	 * notice one tactic used is to display the entire $confirmLink to palin text; this lets users
+	 * who aren't viewing HTML content in Emails still access your links
+	 */
+
 
 
 }

@@ -48,3 +48,7 @@ section{
 .col-lg-12 {
 	width: 100%;
 }
+
+.footer.navbar.fixed-bottom {
+	background-color: black;
+}

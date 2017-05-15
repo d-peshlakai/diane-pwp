@@ -18,7 +18,7 @@
 
 		<link href="css/style.css" rel="stylesheet" type="text/css"/>
 
-		<!----Font Awesome-------->
+		<!-- Font Awesome -->
 		<link type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
 				rel="stylesheet"/>
 		<!----satisfy font style--->
@@ -60,7 +60,7 @@
 		<!-- Google reCAPTCHA -->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 
-		<!------Title of Website-------->
+		<!-- Title of Website -->
 		<title>DianePeshlakai.com</title>
 
 	</head>

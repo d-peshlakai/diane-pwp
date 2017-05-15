@@ -148,7 +148,7 @@
 							Please feel free to fill out the contact form and send me a message.</p>
 					</div>
 			</section>
-			<!-- Tools --->
+			<!-- Tools -->
 			<section id="services">
 				<div class="center">
 					<div class="row text-center">
@@ -174,7 +174,7 @@
 				</div>
 			</section>
 
-					<!--Contact Form---->
+					<!-- Contact Form -->
 
 			<div class="container form-wrap">
 				<div class="row">

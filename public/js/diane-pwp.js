@@ -1,5 +1,5 @@
 
-//Intialize and reveal scroll animation
+//Initialize and reveal scroll animation
 window.sr = ScrollReveal();
 sr.reveal('.dp-icons', {
 	duration: 600,

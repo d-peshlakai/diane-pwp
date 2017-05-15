@@ -49,6 +49,10 @@
 		<script type="text/javascript"
 				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
 
+		<!-- jQuery plugin -->
+		<script src="vendor/scrollreveal/scrollreveal.min.js"></script>
+
+
 		<!-- Your JavaScript Form Validator/Theme -->
 		<script src="js/form-validate.js"></script>
 		<script src="js/diane-pwp.js"></script>
@@ -125,7 +129,7 @@
 					<!-- /.intro-header -->
 				</a>
 			</header>
-			<!--About Me section-->
+			<!-- About Me section -->
 			<section class="about-block" id="about">
 				<div class="center">
 					<div class="row">
@@ -144,7 +148,7 @@
 							Please feel free to fill out the contact form and send me a message.</p>
 					</div>
 			</section>
-			<!--Tools--->
+			<!-- Tools --->
 			<section id="services">
 				<div class="center">
 					<div class="row text-center">

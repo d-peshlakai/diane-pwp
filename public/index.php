@@ -21,7 +21,7 @@
 		<!-- Font Awesome -->
 		<link type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
 				rel="stylesheet"/>
-		<!----satisfy font style--->
+		<!-- satisfy font style -->
 		<link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Just+Another+Hand" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet">

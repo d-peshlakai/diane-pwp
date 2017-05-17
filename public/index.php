@@ -86,10 +86,10 @@
 								<a href="#about">About</a>
 							</li>
 							<li>
-								<a href="#projects">Projects</a>
+								<a href="#services">Projects</a>
 							</li>
 							<li>
-								<a href="#contact">Contact</a>
+								<a href="#contact-form">Contact</a>
 							</li>
 						</ul>
 					</div>

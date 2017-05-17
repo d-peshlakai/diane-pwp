@@ -8,7 +8,11 @@ require_once(dirname(__DIR__, 2) . "/vendor/autoload.php");
 /*
  * require mailer-config.php
  */
-require_once("mailer-config.php");
+//require_once("mailer-config.php");
+
+//require_once '/path/to/swift-mailer/lib/swift_required.php';
+
+
 
 //verify user's reCAPTCHA input
 $recaptcha = new \ReCaptcha\ReCaptcha($secret);

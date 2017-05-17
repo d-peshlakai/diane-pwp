@@ -8,6 +8,11 @@
 html { display: flex;}
 body { width: 100%;}
 
+body {
+	margin: 0;
+	overflow-x:hidden;
+
+}
 #about {
 	/**display: flex;
 	flex-direction: column;

@@ -44,10 +44,9 @@ section{
 
 
 .container.form-wrap {
-	padding-right: -15px;
-	padding-left: -15px;
 	margin-right: auto;
 	margin-left: auto;
+	padding: 100px 0;
 }
 
 .col-lg-12 {

@@ -169,6 +169,13 @@
 								<i class="fa fa-circle fa-stack-2x text-muted dp-icons"></i>
 								<i class="fa fa-mobile fa-stack-1x fa-inverse"></i>
 							</span>
+							<div class ="row">
+							<div class="sm-col-4 portfolio-item">
+
+							</div>
+							<div class="sm-col-4 portfolio-item"
+
+							</div>
 						</div>
 					</div>
 				</div>

@@ -5,6 +5,7 @@
 ***/
 
 /*corrects IE min-height bug*/
+
 html { display: flex;}
 body { width: 100%;}
 

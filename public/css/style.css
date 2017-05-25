@@ -14,17 +14,15 @@ body {
 	overflow-x:hidden;
 
 }
+
 #about {
-	/**display: flex;
-	flex-direction: column;
-	min-height: 100vh;
-	**/
 	font-family: 'Bree Serif', 'serif';
 }
 
 h4 {
 	font-family: 'Bree Serif', 'serif';
 }
+
 section{
 	padding: 100px 0;
 }
@@ -54,6 +52,3 @@ section{
 	width: 100%;
 }
 
-.footer.navbar.fixed-bottom {
-
-}

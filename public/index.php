@@ -9,7 +9,6 @@
 		<base href="<?php echo dirname($_SERVER["PHP_SELF"]) . "/"; ?>">
 
 		<!-- Latest compiled and minified CSS -->
-		<link href="css/style.css" rel="stylesheet" type="text/css" />
 
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
 				integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -25,6 +24,10 @@
 		<link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Just+Another+Hand" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet">
+
+		<link href="css/style.css" rel="stylesheet" type="text/css" />
+
+
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>
@@ -147,6 +150,19 @@
 							working on my own personal lifestyle blog with Wordpress. Have a question?
 							Please feel free to fill out the contact form and send me a message.</p>
 					</div>
+
+					<script>
+
+						$( "a" ).click(function( event ) {
+
+							event.preventDefault();
+
+							$( this ).fadeOut( "duration", function();
+						});
+						});
+
+					</script>
+
 			</section>
 			<!-- Tools -->
 			<section id="services">

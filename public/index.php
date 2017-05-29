@@ -4,6 +4,7 @@
 		<meta charset="UTF-8"/>
 		<meta http-equiv="X-UA-COMPATIBLE" content="IE-edge"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<meta http-equiv="Content-Type" content="text/html />
 
 		<!-- set base for relative links - to enable pretty URLs -->
 		<base href="<?php echo dirname($_SERVER["PHP_SELF"]) . "/"; ?>">
@@ -158,7 +159,6 @@
 							event.preventDefault();
 
 							$( this ).fadeOut( "duration", function();
-						});
 						});
 
 					</script>

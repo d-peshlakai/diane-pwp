@@ -268,7 +268,7 @@
 							<p>Albuquerque, NM</p>
 							<ul class="list-unstyled">
 								<li><i class="fa fa-envelope-o fa-fw"></i> <a
-										href="mailto:name@example.com">dpeshlakai90@gmail.com</a>
+										href="mailto:name@example.com">peshwebdev@gmail.com</a>
 								</li>
 							</ul>
 							<br>

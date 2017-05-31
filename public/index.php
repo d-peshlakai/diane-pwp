@@ -187,10 +187,15 @@
 							</span>
 							<div class ="row">
 							<div class="sm-col-5 portfolio-item">
-								<a href=""/>
-								<div class="caption>
+
 
 							</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
 							<div class="sm-col-4 portfolio-item"
 
 							</div>

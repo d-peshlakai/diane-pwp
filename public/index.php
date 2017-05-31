@@ -186,7 +186,9 @@
 								<i class="fa fa-mobile fa-stack-1x fa-inverse"></i>
 							</span>
 							<div class ="row">
-							<div class="sm-col-4 portfolio-item">
+							<div class="sm-col-5 portfolio-item">
+								<a href=""/>
+								<div class="caption>
 
 							</div>
 							<div class="sm-col-4 portfolio-item"

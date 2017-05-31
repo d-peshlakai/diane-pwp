@@ -50,3 +50,7 @@ section{
 	width: 100%;
 }
 
+.portfolio-item {
+	background-image: url(../images/burton.PNG);
+	background-size: 300px 0;
+}

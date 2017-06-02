@@ -54,3 +54,6 @@ section{
 	background-image: url(../images/burton.PNG);
 	background-size: 300px 0;
 }
+.col-sm-6 {
+	width: 50%;
+}

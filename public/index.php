@@ -189,15 +189,14 @@
 						</div>
 
 							<div class ="row">
-							<div class="col-sm-4 portfolio-item">
+							<div class="col-md-4 col-sm-6 portfolio-item">
 								<img src="images/burton.PNG" alt="burton" class="img-responsive">
 							</div>
-								</div>
 
-								<div class="col-sm-5 portfolio-item">
+								<div class="col-md-4 col-sm-6 portfolio-item">
 									<img src="images/burton.PNG" alt="burton" class="img-responsive">
 								</div>
-
+							</div>
 					</div>
 				</div>
 				</section>

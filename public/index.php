@@ -180,29 +180,31 @@
 								<i class="fa fa-desktop fa-stack-1x fa-inverse"></i>
 							</span>
 						</div>
+
 						<div class="col-md-4">
 							<span class="fa-stack fa-4x">
 								<i class="fa fa-circle fa-stack-2x text-muted dp-icons"></i>
 								<i class="fa fa-mobile fa-stack-1x fa-inverse"></i>
 							</span>
-							<div class ="row">
-							<div class="sm-col-5 portfolio-item">
-
-
-							</div>
-							</div>
 						</div>
+
+							<div class ="row">
+							<div class="col-sm-4 portfolio-item">
+								<img src="images/burton.PNG" alt="burton" class="img-responsive">
+							</div>
+								</div>
+
+								<div class="col-sm-5 portfolio-item">
+									<img src="images/burton.PNG" alt="burton" class="img-responsive">
+								</div>
+
 					</div>
 				</div>
+				</section>
 			</div>
 
-							<div class="sm-col-4 portfolio-item"
 
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
+
 
 					<!-- Contact Form -->
 

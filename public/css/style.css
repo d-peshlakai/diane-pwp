@@ -18,7 +18,7 @@ body {
 
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-brand:hover {
-	color: orange;
+	color: lavender;
 }
 
 #about {
@@ -60,6 +60,11 @@ section{
 .col-lg-12 {
 	width: 100%;
 }
+
+#services {
+	background-color: darkgray;
+}
+
 
 .portfolio-item {
 	background-image: url(../images/burton.PNG);

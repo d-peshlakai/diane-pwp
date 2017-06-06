@@ -168,6 +168,7 @@
 			</section>
 			<!-- Tools -->
 			<section id="services">
+				<div class="container">
 				<div class="center">
 					<div class="row text-center">
 						<div class="col-md-4">
@@ -176,6 +177,7 @@
 								<i class="fa fa-code fa-stack-1x fa-inverse"></i>
 							</span>
 						</div>
+
 						<div class="col-md-4">
 							<span class="fa-stack fa-4x">
 								<i class="fa fa-circle fa-stack-2x text-muted dp-icons"></i>
@@ -191,19 +193,19 @@
 						</div>
 
 							<div class ="row">
-							<div class="col-md-4 col-sm-6 portfolio-item">
+							<div class="col-sm-6 offset-sm-6 portfolio-item">
 								<img src="images/burton.PNG" alt="burton" class="img-responsive">
 							</div>
 
-								<div class="col-md-4 col-sm-6 portfolio-item">
+								<div class="col-sm-6 offset-sm-6 portfolio-item">
 									<img src="images/burton.PNG" alt="burton" class="img-responsive">
 								</div>
 							</div>
 					</div>
 				</div>
+					</div>
 				</section>
 			</div>
-
 
 
 

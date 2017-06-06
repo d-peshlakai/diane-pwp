@@ -65,7 +65,7 @@
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 
 		<!-- Title of Website -->
-		<title>DianePeshlakai.com</title>
+		<title>Diane Peshlakai | Full Stack Web Developer</title>
 	</head>
 
 	<body class="sfooter">

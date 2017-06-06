@@ -25,6 +25,8 @@
 		<link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Just+Another+Hand" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
+
 
 		<link href="css/style.css" rel="stylesheet" type="text/css" />
 
@@ -71,7 +73,7 @@
 	<body class="sfooter">
 		<div class="sfooter-content">
 			<!--Header and Navigation bar-->
-			<nav class="navbar navbar-default navbar-fixed-top topnav" role="navigation">
+			<nav class="navbar navbar-inverse navbar-fixed-top topnav" role="navigation">
 				<div class="container topnav">
 					<!-- Brand and toggle get grouped for better mobile display -->
 					<div class="navbar-header">

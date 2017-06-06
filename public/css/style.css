@@ -11,6 +11,10 @@ body {
 	overflow-x:hidden;
 
 }
+.navbar-inverse {
+	font-family: 'Courgette', cursive;
+}
+
 
 #about {
 	font-family: 'Bree Serif', 'serif';

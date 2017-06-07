@@ -71,5 +71,9 @@ section{
 	background-size: 300px 0;
 }
 .col-sm-6 {
-	width: 50%;
+	width: 40%;
+	margin: 0 0 30px;
+}
+.col-md-4 {
+	 margin: 0 0 30px;
 }

@@ -71,7 +71,7 @@
 	</head>
 
 	<body class="sfooter">
-		<div class="sfooter-content">
+		< class="sfooter-content">
 			<!--Header and Navigation bar-->
 			<nav class="navbar navbar-inverse navbar-fixed-top topnav" role="navigation">
 				<div class="container topnav">
@@ -193,19 +193,19 @@
 						</div>
 
 							<div class ="row">
-							<div class="col-sm-6 offset-sm-6 portfolio-item">
+							<div class="col-sm-6 portfolio-item">
 								<img src="images/burton.PNG" alt="burton" class="img-responsive">
 							</div>
 
-								<div class="col-sm-6 offset-sm-6 portfolio-item">
+									<div class="col-sm-6 portfolio-item">
 									<img src="images/burton.PNG" alt="burton" class="img-responsive">
+									</div>
 								</div>
 							</div>
-					</div>
-				</div>
+						</div>
 					</div>
 				</section>
-			</div>
+
 
 
 
@@ -291,6 +291,7 @@
 				</div>
 				<a id="to-top" href="#top" class="btn btn-dark btn-lg"><i class="fa fa-chevron-up fa-fw fa-1x"></i></a>
 			</footer>
+		</div>
 
 	</body>
 </html>

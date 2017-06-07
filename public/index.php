@@ -197,9 +197,14 @@
 									<img src="images/burton.PNG" alt="burton" class="img-responsive">
 								</div>
 
-									<div class="col-sm-6 portfolio-item">
-									<img src="images/keyboard.jpeg" alt="burton" class="img-responsive">
-									</div>
+								<div class="col-sm-6 portfolio-item">
+										<img src="images/keyboard.jpeg" alt="burton" class="img-responsive">
+								</div>
+
+								<div class="col-sm-6 portfolio-item">
+										<img src="images/keyboard.jpeg" alt="burton" class="img-responsive">
+								</div>
+
 								</div>
 							</div>
 						</div>

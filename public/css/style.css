@@ -67,13 +67,15 @@ section{
 
 
 .portfolio-item {
-	background-image: url(../images/burton.PNG);
-	background-size: 300px 0;
+	background-size: 200px 0;
+	position: relative;
 }
 .col-sm-6 {
-	width: 40%;
-	margin: 0 0 30px;
+
+	margin: 5% auto;
+	width: 45%;
 }
+
 .col-md-4 {
 	 margin: 0 0 30px;
 }

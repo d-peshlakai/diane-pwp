@@ -168,7 +168,7 @@
 			</section>
 			<!-- Tools -->
 			<section id="services">
-				<div class="container">
+				<div class="container center">
 				<div class="center">
 					<div class="row text-center">
 						<div class="col-md-4">
@@ -193,12 +193,12 @@
 						</div>
 
 							<div class ="row">
-							<div class="col-sm-6 portfolio-item">
-								<img src="images/burton.PNG" alt="burton" class="img-responsive">
-							</div>
+								<div class="col-sm-6 portfolio-item">
+									<img src="images/burton.PNG" alt="burton" class="img-responsive">
+								</div>
 
 									<div class="col-sm-6 portfolio-item">
-									<img src="images/burton.PNG" alt="burton" class="img-responsive">
+									<img src="images/keyboard.jpeg" alt="burton" class="img-responsive">
 									</div>
 								</div>
 							</div>

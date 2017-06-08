@@ -260,7 +260,7 @@
 							</div>
 
 							<!-- google recaptcha-->
-							<div class="g-recaptcha" data-sitekey="6LfS5SAUAAAAABoZKbojM9hwD03Ji3W0Kp7pKYk4"></div>
+							<div class="g-recaptcha" data-sitekey="6LcmnCQUAAAAAICd1OxzeVtqZMNt5xTbhiXdAYkZ"></div>
 
 							<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 							<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>

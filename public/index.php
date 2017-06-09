@@ -195,6 +195,12 @@
 							<div class ="row">
 								<div class="col-sm-6 portfolio-item">
 									<img src="images/burton.PNG" alt="burton" class="img-responsive">
+									<div class="caption">
+										<div class="caption-content">
+										<i class="fa fa-magic fa-3x"></i>
+										</div>
+									</div>
+									</div>
 								</div>
 
 								<div class="col-sm-6 portfolio-item">

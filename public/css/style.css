@@ -33,6 +33,20 @@ body {
 	margin-bottom: 30px;
 }
 
+.photo-container {
+	display: flex;
+}
+
+.photoOfMe {
+	margin: 0 auto;
+}
+
+.dianeImg {
+	max-width: 3000px;
+	max-height: 300px;
+	text-align: center;
+	}
+
 
 h4 {
 	font-family: 'Bree Serif', 'serif';

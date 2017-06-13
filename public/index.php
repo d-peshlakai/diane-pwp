@@ -143,13 +143,12 @@
 						<div class="col-lg-12 text-center">
 							<h2>About Me</h2>
 							<div class="title-underline">
-
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-lg-4 col-lg-offset-4">
+					<div class="col-lg-4 col-lg-offset-2">
 						<p>Last summer I completed the Deep Dive Coding Bootcamp program where I studied front and back-end web development.
 							I went from a pharmacy technician to web developer to express my creativity. The bootcamp prepared me to create
 							mobile-friendly and secured websites. I used HTML/CSS, PHP, Javascript, Bootstrap, AngularJS, JQuery and
@@ -157,7 +156,12 @@
 							working on my own personal lifestyle blog with Wordpress. Have a question?
 							Please send me an email.</p>
 					</div>
+					<div class="photo-container">
+					<div class="photoOfMe">
+						<img class="dianeImg" src="images/dp-pic.png" alt="photo of diane">
 
+					</div>
+					</div>
 					<script>
 
 						$( "a" ).click(function( event ) {

@@ -117,9 +117,8 @@
 										<div class="intro-message">
 											<div class="intro-text">
 												<p>
-													<span class="word">Full Stack Web Developer</span>
+													<span class="title">Full Stack Web Developer</span>
 												</p>
-
 											</div>
 											<hr class="intro-divider">
 											<ul class="list-inline intro-social-buttons">

@@ -21,6 +21,11 @@ body {
 	color: lavender;
 }
 
+.title {
+	font-size: medium;
+	color: white;
+}
+
 #about {
 	font-family: 'Open Sans', sans-serif;
 	background-color: lavender;

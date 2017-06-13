@@ -12,7 +12,7 @@ body {
 
 }
 .navbar-inverse {
-	font-family: 'Courgette', cursive;
+	font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -22,8 +22,15 @@ body {
 }
 
 #about {
-	font-family: 'Bree Serif', 'serif';
+	font-family: 'Open Sans', sans-serif;
 	background-color: lavender;
+}
+
+.title-underline {
+	border-top: 3px solid black;
+	width: 80px;
+	margin: 0 auto;
+	margin-bottom: 30px;
 }
 
 

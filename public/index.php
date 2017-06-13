@@ -26,6 +26,7 @@
 		<link href="https://fonts.googleapis.com/css?family=Just+Another+Hand" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 
 
 		<link href="css/style.css" rel="stylesheet" type="text/css" />
@@ -141,6 +142,9 @@
 					<div class="row">
 						<div class="col-lg-12 text-center">
 							<h2>About Me</h2>
+							<div class="title-underline">
+
+							</div>
 						</div>
 					</div>
 				</div>
@@ -148,10 +152,10 @@
 					<div class="col-lg-4 col-lg-offset-4">
 						<p>Last summer I completed the Deep Dive Coding Bootcamp program where I studied front and back-end web development.
 							I went from a pharmacy technician to web developer to express my creativity. The bootcamp prepared me to create
-							creative mobile-friendly and secured websites. I used HTML/CSS, PHP, Javascript, Bootstrap, AngularJS, JQuery and
+							mobile-friendly and secured websites. I used HTML/CSS, PHP, Javascript, Bootstrap, AngularJS, JQuery and
 							mySQL. It allows me to be creative and enjoy what I do. I work well with a team and I love learning! I'm currently
 							working on my own personal lifestyle blog with Wordpress. Have a question?
-							Please feel free to fill out the contact form and send me a message.</p>
+							Please send me an email.</p>
 					</div>
 
 					<script>

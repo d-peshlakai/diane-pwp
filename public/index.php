@@ -279,7 +279,7 @@
 
 
 
-					<!-- Contact Form -->
+					<!-- Contact Form
 
 			<div class="container form-wrap">
 				<div class="row">
@@ -324,14 +324,14 @@
 								</div>
 							</div>
 
-							<!-- google recaptcha-->
+							<!-- google recaptcha
 							<div class="g-recaptcha" data-sitekey="6LcmnCQUAAAAAICd1OxzeVtqZMNt5xTbhiXdAYkZ"></div>
 
 							<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 							<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
 						</form>
 
-						<!--empty area for form error/success output-->
+						<!--empty area for form error/success output
 						<div class="row">
 							<div class="col-xs-12">
 								<div id="output-area"></div>
@@ -341,6 +341,7 @@
 					</div>
 				</div>
 
+-->
 			<!-- Footer -->
 			<footer class="footer navbar fixed-bottom">
 				<div class="container">

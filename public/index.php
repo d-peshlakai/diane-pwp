@@ -207,7 +207,7 @@
 
 							<div class ="row">
 								<div class="col-sm-6 portfolio-item">
-									<img src="images/burton.PNG" alt="burton" class="img-responsive">
+									<img src="images/burton.PNG" alt="burton" class="burtonImg">
 									<div class="caption">
 										<div class="caption-content">
 										<i class="fa fa-magic fa-3x"></i>
@@ -215,7 +215,19 @@
 									</div>
 									</div>
 								</div>
+								<div class="flex-container">
+									<div class="skills-flexbox">
+										<div class="skill-box">
+											<i class="fa fa-html5"></i>
+											<p>HTML5</p>
+											</div>
+											<div class="skill-cssbox">
+												<i class="fa fa-css"></i>
+												<p>CSS</p>
+											</div>
 
+									</div>
+								</div>
 								<div class="col-sm-6 portfolio-item">
 										<img src="images/keyboard.jpeg" alt="burton" class="img-responsive">
 								</div>

@@ -52,6 +52,11 @@ body {
 	text-align: center;
 	}
 
+.burtonImg {
+	max-width: 300px;
+	max-height: 500px;
+}
+
 
 h4 {
 	font-family: 'Bree Serif', 'serif';
@@ -89,12 +94,13 @@ section{
 
 #services {
 	background-color: darkgray;
+	display: flex;
 }
 
 
 .portfolio-item {
 	background-size: 200px 0;
-	position: relative;
+
 }
 .col-sm-6 {
 

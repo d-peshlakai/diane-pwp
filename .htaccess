@@ -1,0 +1,9 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^dianepeshlakai.com$ [NC,OR]
+RewriteCond %{HTTP_HOST} ^www.dianepeshlakai.com$
+RewriteCond %{REQUEST_URI} !public/
+RewriteRule (.*) /public/$1 [L]
+
+# for A Small Orange deployments only
+# delete this if deploying to any other host
+AddHandler application/x-httpd-php70 .php .php5 .php4 .php3

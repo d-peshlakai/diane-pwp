@@ -30,6 +30,8 @@
 		<link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Bangers" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+
 
 
 

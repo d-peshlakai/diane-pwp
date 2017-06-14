@@ -99,10 +99,10 @@
 								<a href="#about">About</a>
 							</li>
 							<li>
-								<a href="#services">Projects</a>
+								<a href="#services">Skills</a>
 							</li>
 							<li>
-								<a href="#contact-form">Contact</a>
+								<a href="#to-top">Contact</a>
 							</li>
 						</ul>
 					</div>
@@ -163,8 +163,8 @@
 						<p>Last summer I completed the Deep Dive Coding Bootcamp program where I studied front and back-end web development.
 							I went from a pharmacy technician to web developer to build creative web applications. The bootcamp prepared me to create
 							mobile-friendly and secured websites. I used HTML/CSS, PHP, Javascript, Bootstrap, AngularJS, JQuery and
-							mySQL. It allows me to be creative and enjoy what I do. I work well with a team and I love learning! I'm currently
-							working on my own personal lifestyle blog with Wordpress. Have a question?
+							mySQL. It enjoy what I do! I work well with a team and I love learning. I'm currently
+							working on my own personal lifestyle blog with Wordpress and open for contract work. Have a question?
 							Please send me an email.</p>
 					</div>
 					<div class="photo-container">
@@ -352,7 +352,7 @@
 			<footer class="footer navbar fixed-bottom">
 				<div class="container">
 					<div class="row">
-						<div class="col-lg-10 col-lg-offset-1">
+						<div class="col-lg-10 col-lg-offset-">
 							<h4>Location</h4>
 							<p>Albuquerque, NM</p>
 							<ul class="list-unstyled">

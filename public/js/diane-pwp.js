@@ -1,3 +1,4 @@
+
 var title = document.getElementsByClassName('word');
 var titleArray = [];
 var currentWord = 0;

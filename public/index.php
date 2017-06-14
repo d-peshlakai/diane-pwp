@@ -247,8 +247,11 @@
 								</div>
 								<div class="flex-contanier">
 									<div class="secondSkill-flex">
-										<div class="col-lg-3 col-md-6">
-
+										<div class="col-lg-3 col-md-6 center">
+											<div class="php-box">
+												<i class="fa fa-code"></i>
+												<p>php</p>
+											</div>
 										</div>
 										</div>
 								</div>

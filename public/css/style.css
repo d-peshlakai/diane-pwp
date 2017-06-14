@@ -122,6 +122,10 @@ section{
 	font-size: 4em;
 }
 
+.fa-database {
+	font-size: 4em;
+}
+
 .portfolio-item {
 	background-size: 200px 0;
 
@@ -149,4 +153,8 @@ section{
 	top: 50%;
 	margin-top: -12px;
 	color: white;
+}
+
+.col-md-8 {
+	width: 33.33333%;
 }

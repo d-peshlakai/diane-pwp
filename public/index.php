@@ -21,6 +21,8 @@
 		<!-- Font Awesome -->
 		<link type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
 				rel="stylesheet"/>
+		<link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
+
 		<!-- satisfy font style -->
 		<link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Just+Another+Hand" rel="stylesheet">
@@ -240,19 +242,33 @@
 												<div class="wordpress-box">
 
 													<i class="fa fa-wordpress"></i>
-												<p>Wordpress</p>
+														<p>Wordpress</p>
 												</div>
 											</div>
 										</div>
 								</div>
-								<div class="flex-contanier">
+								<div class="flex-container">
 									<div class="secondSkill-flex">
-										<div class="col-lg-3 col-md-6 center">
+										<div class="col-lg-3 col-md-6">
 											<div class="php-box">
 												<i class="fa fa-code"></i>
 												<p>php</p>
 											</div>
 										</div>
+
+										<div class="col-lg-3 col-md-6">
+											<div class="database-box">
+												<i class="fa fa-database"></i>
+													<p>mySQL</p>
+												</div>
+										</div>
+										</div>
+
+										<div class="col-lg-3 col-md-6">
+											<div class="javascript-box">
+												<i class="devicon-javascript-plain"></i>
+												<p>Javascript</p>
+											</div>
 										</div>
 								</div>
 								</div>

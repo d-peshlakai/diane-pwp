@@ -159,7 +159,7 @@
 				<div class="row">
 					<div class="col-lg-4 col-lg-offset-2">
 						<p>Last summer I completed the Deep Dive Coding Bootcamp program where I studied front and back-end web development.
-							I went from a pharmacy technician to web developer to express my creativity. The bootcamp prepared me to create
+							I went from a pharmacy technician to web developer to build creative web applications. The bootcamp prepared me to create
 							mobile-friendly and secured websites. I used HTML/CSS, PHP, Javascript, Bootstrap, AngularJS, JQuery and
 							mySQL. It allows me to be creative and enjoy what I do. I work well with a team and I love learning! I'm currently
 							working on my own personal lifestyle blog with Wordpress. Have a question?

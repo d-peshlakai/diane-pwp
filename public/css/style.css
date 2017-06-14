@@ -98,6 +98,8 @@ section{
 
 .flex-container {
 	text-align: center;
+	align-content: center;
+
 }
 
 

@@ -251,8 +251,7 @@
 									<div class="secondSkill-flex">
 										<div class="col-lg-3 col-md-6">
 											<div class="php-box">
-												<i class="fa fa-code"></i>
-												<p>php</p>
+												<i class="devicon-php-plain"></i>
 											</div>
 										</div>
 
@@ -262,13 +261,13 @@
 													<p>mySQL</p>
 												</div>
 										</div>
-										</div>
 
 										<div class="col-lg-3 col-md-6">
 											<div class="javascript-box">
 												<i class="devicon-javascript-plain"></i>
 												<p>Javascript</p>
 											</div>
+										</div>
 										</div>
 								</div>
 								</div>

@@ -186,3 +186,8 @@ h2 {
 	color: white;
 }
 
+.fixed-bottom {
+	background-image: url(../images/desk-tools.jpg);
+	background-size: cover;
+	margin-bottom: auto;
+}

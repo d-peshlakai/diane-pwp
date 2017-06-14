@@ -88,24 +88,37 @@ section{
 	padding: 100px 0;
 }
 
-.col-lg-12 {
-	width: 100%;
-}
+
 
 #services {
 	background-color: darkgray;
-	display: flex;
+	z-index: 2;
+
 }
+
+.flex-container {
+	text-align: center;
+}
+
+
 .skills-flexbox {
 	display: flex;
 	margin: 50px auto 0;
-	width: 33.3333%;
+	width: 32.3333%;
+
+
 }
 
 .secondSkill-flex {
 	display: flex;
 	margin: 50px auto 0;
-	width: 23.3333%;
+	width: 32.3333%;
+
+}
+
+.col-lg-3 {
+	width: 100%;
+
 }
 
 .fa-html5 {

@@ -221,7 +221,11 @@
 											</div>
 										</div>
 -->
-
+							<div class="col-lg-12 text-center">
+								<h2>Skills</h2>
+								<div class="title-underline">
+								</div>
+								</div>
 								<div class="flex-container">
 									<div class="skills-flexbox">
 										<div class="col-lg-3 col-md-6">

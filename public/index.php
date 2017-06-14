@@ -27,6 +27,8 @@
 		<link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Bangers" rel="stylesheet">
+
 
 
 		<link href="css/style.css" rel="stylesheet" type="text/css" />
@@ -207,6 +209,7 @@
 					</div>
 
 							<div class ="row">
+								<!--
 								<div class="col-sm-6 portfolio-item">
 									<img src="images/burton.PNG" alt="burton" class="burtonImg">
 										<div class="caption">
@@ -215,7 +218,7 @@
 											</div>
 											</div>
 										</div>
-
+-->
 
 								<div class="flex-container">
 									<div class="skills-flexbox">
@@ -244,9 +247,10 @@
 								</div>
 								<div class="flex-contanier">
 									<div class="secondSkill-flex">
+										<div class="col-lg-3 col-md-6">
 
-
-									</div>
+										</div>
+										</div>
 								</div>
 								</div>
 							</div>

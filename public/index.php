@@ -219,20 +219,33 @@
 
 								<div class="flex-container">
 									<div class="skills-flexbox">
+										<div class="col-lg-3 col-md-6">
 										<div class="html-box">
 											<i class="fa fa-html5"></i>
 											<p>HTML5</p>
 											</div>
+										</div>
 
+										<div class="col-lg-3 col-md-6">
 										<div class="css-box">
 												<i class="fa fa-css3"></i>
 												<p>CSS3</p>
 										</div>
-											<div class="wordpress-box">
-												<i class="fa fa-wordpress"></i>
-												<p>Wordpress</p>
+									</div>
 
+											<div class="col-lg-3 col-md-6">
+												<div class="wordpress-box">
+
+													<i class="fa fa-wordpress"></i>
+												<p>Wordpress</p>
+												</div>
 											</div>
+										</div>
+								</div>
+								<div class="flex-contanier">
+									<div class="secondSkill-flex">
+
+
 									</div>
 								</div>
 								</div>

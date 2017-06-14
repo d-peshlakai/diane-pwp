@@ -99,9 +99,23 @@ section{
 .skills-flexbox {
 	display: flex;
 	margin: 50px auto 0;
-	width: 65%;
+	width: 33.3333%;
 }
 
+.fa-html5 {
+	font-size: 4em;
+}
+.fa-css3 {
+	font-size: 4em;
+}
+
+.fa-wordpress {
+	font-size: 4em;
+}
+
+.html-box {
+	max-width: 400px;
+}
 
 .portfolio-item {
 	background-size: 200px 0;

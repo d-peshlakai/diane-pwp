@@ -96,13 +96,13 @@
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<ul class="nav navbar-nav navbar-right">
 							<li>
-								<a href="#about">About</a>
+								<a class="page-scroll" href="#about">About</a>
 							</li>
 							<li>
-								<a href="#services">Skills</a>
+								<a class="page-scroll" href="#services">Skills</a>
 							</li>
 							<li>
-								<a href="#to-top">Contact</a>
+								<a class="page-scroll" href="#to-top">Contact</a>
 							</li>
 						</ul>
 					</div>

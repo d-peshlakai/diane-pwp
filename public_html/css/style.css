@@ -106,13 +106,12 @@ h2 {
 
 }
 
-.flex-container {
-	text-align: center;
-	align-content: center;
+
+
+
+.flex-container2 {
 	display: inline-flex;
-
 }
-
 
 .skills-flexbox {
 	display: flex;
@@ -128,6 +127,7 @@ h2 {
 	width: 32.3333%;
 
 }
+
 
 .col-lg-3 {
 	width: 100%;

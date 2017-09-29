@@ -148,6 +148,24 @@
 					<!-- /.intro-header -->
 				</a>
 			</header>
+
+		<section class="services-block" id="service">
+			<div class="center">
+				<div class="row">
+					<div class="col-lg-12 text-center">
+						<h2>Do you need a website?</h2>
+
+
+					</div>
+				</div>
+			</div>
+
+
+		</section>
+
+
+
+
 			<!-- About Me section -->
 			<section class="about-block" id="about">
 				<div class="center">
@@ -252,6 +270,11 @@
 														<p>Wordpress</p>
 												</div>
 											</div>
+
+											<div class="col-lg-3 col-md-6">
+												<div class="c++-box">
+													<i class="devicon-cplusplus-plain"></i>
+												</div>
 										</div>
 								</div>
 								<div class="flex-container">

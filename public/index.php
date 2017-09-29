@@ -162,10 +162,10 @@
 				<div class="row">
 					<div class="col-lg-4 col-lg-offset-2">
 						<p>Last summer I completed the Deep Dive Coding Bootcamp program where I studied front and back-end web development.
-							I changed careers from pharmacy technician to web developer. Web Development reveals my creativity. The bootcamp prepared me to build
-							mobile-friendly and secured websites. I used HTML/CSS, PHP, Javascript, Bootstrap, AngularJS, JQuery and
-							mySQL. I enjoy what I do! I work well with a team and I love learning. I'm currently
-							working on my own personal lifestyle blog with Wordpress and open for contract work. Have a question?
+							Web Development reveals my creativity. The bootcamp prepared me to build
+							mobile-friendly and secured websites. I utilized HTML/CSS, PHP, Javascript, Bootstrap, AngularJS, JQuery and
+							mySQL. I work well with a team and I love learning. I'm currently furthering my career by taking additional courses and
+							working on a blog with Wordpress. I'm open for contract work. Have a question or want to work together?
 							Please send me an email.</p>
 					</div>
 					<div class="photo-container">
@@ -354,8 +354,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-10 col-lg-offset-">
-							<h4>Location</h4>
-							<p>Albuquerque, NM</p>
+							<h4>Email me</h4>
 							<ul class="list-unstyled">
 								<li><i class="fa fa-envelope-o fa-fw"></i>
 									<a href="mailto:name@example.com">peshwebdev@gmail.com</a>

@@ -191,7 +191,7 @@ h2 {
 }
 
 .fixed-bottom {
-	background-image: url(../images/desk-tools.jpg);
+	background-color: black;
 	background-size: cover;
 	margin-bottom: auto;
 	color: white;

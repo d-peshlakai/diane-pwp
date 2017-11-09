@@ -105,7 +105,13 @@ h2 {
 	z-index: 2;
 
 }
+#service {
+	background-color: darkgrey;
 
+}
+#service.row {
+	display: flex;
+}
 
 
 
@@ -178,6 +184,12 @@ h2 {
 	 margin: 0 0 30px;
 }
 
+.ml-auto {
+	margin-left: auto;
+}
+.mr-auto {
+	margin-right: auto;
+}
 #services .portfolio-item .caption:hover {
 	opacity: 1;
 }

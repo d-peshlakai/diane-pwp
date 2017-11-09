@@ -155,7 +155,7 @@
 					<div class="col-lg-12 text-center">
 						<h2>Do you need a website?</h2>
 						<div class="title-underline">
-							<div class="col-lg-4 ml-auto">
+							<div class="col-md-4 ml-auto">
 							<h3><i class="fa fa-laptop" aria-hidden="true"></i>Web Development</h3>
 								<p>Let me help you create your site for your business. Custom build.</p>
 
@@ -163,7 +163,7 @@
 
 							</div>
 
-							<div class="col-lg-4 mr-auto">
+							<div class="col-md-4 mr-auto">
 								<h3><i class="fa fa-share-alt" aria-hidden="true"></i>Web Marketing</h3>
 								<p>Let me help you attract more customers and/or clients. SEO integration.</p>
 

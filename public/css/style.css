@@ -63,7 +63,10 @@ body {
 	max-height: 500px;
 }
 
+h3 {
+	font-family: 'Marvel', sans-serif;
 
+}
 h4 {
 	font-family: 'Bree Serif', 'serif';
 }

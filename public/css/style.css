@@ -76,6 +76,10 @@ h2 {
 	font-family: 'Lobster', cursive;
 }
 
+p{
+	font-family: 'Marvel', sans-serif;
+	font-size: 20px;
+}
 .intro-message {
 	text-align: center;
 }

@@ -29,6 +29,8 @@
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Bangers" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Marvel" rel="stylesheet">
+
 
 
 
@@ -159,6 +161,7 @@
 							<div class="col-lg-6 ml-auto">
 							<h3><i class="fa fa-laptop" aria-hidden="true"></i>Web Development</h3>
 								<p>Let me help you create your site for your business. Custom build.</p>
+								<p>Clean professional design that meets your needs.</p>
 
 
 
@@ -167,6 +170,7 @@
 							<div class="col-lg-6 mr-auto">
 								<h3><i class="fa fa-share-alt" aria-hidden="true"></i>Web Marketing</h3>
 								<p>Let me help you attract more customers and/or clients. SEO integration.</p>
+								<p>Social Media assistance.  </p>
 
 
 

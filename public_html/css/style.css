@@ -219,3 +219,18 @@ p{
 	color: white;
 }
 
+.img-fluid {
+	max-width: 100%;
+	height: auto;
+}
+
+#portfolio {
+	background-color: darkgray;
+}
+.text-center {
+	text-align: center;
+}
+
+#portfolio h3 {
+	color: white;
+}

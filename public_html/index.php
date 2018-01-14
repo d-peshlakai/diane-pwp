@@ -171,17 +171,10 @@
 								<h3><i class="fa fa-share-alt" aria-hidden="true"></i>Web Marketing</h3>
 								<p>Let me help you attract more customers and/or clients. SEO integration.</p>
 								<p>Social Media assistance.  </p>
-
-
-
 							</div>
 					</div>
-
-					</div>
 				</div>
-
-
-
+			</div>
 		</section>
 
 

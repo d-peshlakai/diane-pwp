@@ -80,6 +80,8 @@
 		<title>Diane Peshlakai | Full Stack Web Developer</title>
 	</head>
 
+
+
 	<body class="sfooter">
 		<div class="sfooter-content">
 			<!--Header and Navigation bar-->
@@ -163,8 +165,6 @@
 								<p>Let me help you create your site for your business. Custom build.</p>
 								<p>Clean professional design that meets your needs.</p>
 
-
-
 							</div>
 
 							<div class="col-lg-6 mr-auto">
@@ -175,11 +175,11 @@
 
 
 							</div>
-							</div>
+					</div>
 
 					</div>
 				</div>
-			</div>
+
 
 
 		</section>
@@ -365,12 +365,11 @@
 								<img class="img-fluid" src="img/portfolio/coming soon" alt="">
 							</a>
 						</div>
-</section>
+			</section>
 
 
 
-
-
+</div>
 
 
 					<!-- Contact Form

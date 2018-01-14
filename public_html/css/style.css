@@ -4,21 +4,27 @@
 * http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
 ***/
 
-/*corrects IE min-height bug*/
 
-/*corrects IE min-height bug*/
-html { display: flex;
+html, body {
+	margin: 0;
 	box-sizing: border-box;
 }
 
+/* create a responsive container */
 
-
-body {
-	margin: 0;
-	overflow-x:hidden;
-	width: 100%;
-
+@media screen and (max-width: 750px) {
+	body { padding-top: 10px; }
 }
+
+
+/*corrects IE min-height bug*/
+html { display: flex;}
+body {width: 100%;}
+
+
+
+
+
 
 .sfooter {
 	display: flex;
@@ -30,19 +36,6 @@ body {
 	flex: 1 0 auto;
 }
 
-
-/* create a responsive container */
-@media only screen and (min-width: 1200px) {
-	.container { width: 1170px; }
-}
-
-@media only screen and (min-width: 992px) and (max-width: 1199px) {
-	.container { width: 970px; }
-}
-
-@media only screen and (min-width: 768px) and (max-width: 991px) {
-	.container { width: 750px; }
-}
 
 
 

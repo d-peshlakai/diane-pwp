@@ -81,7 +81,7 @@
 	</head>
 
 	<body class="sfooter">
-		< class="sfooter-content">
+		<div class="sfooter-content">
 			<!--Header and Navigation bar-->
 			<nav class="navbar navbar-inverse navbar-fixed-top topnav" role="navigation">
 				<div class="container topnav">

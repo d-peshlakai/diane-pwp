@@ -178,8 +178,6 @@
 		</section>
 
 
-
-
 			<!-- About Me section -->
 			<section class="about-block" id="about">
 				<div class="center">
@@ -201,34 +199,23 @@
 							Please send me an email.</p>
 					</div>
 					<div class="photo-container">
-					<div class="photoOfMe">
+						<div class="photoOfMe">
 						<img class="dianeImg" src="images/dp-pic.png" alt="photo of diane">
-
+						</div>
 					</div>
-					</div>
-					<script>
-
-						$( "a" ).click(function( event ) {
-
-							event.preventDefault();
-
-							$( this ).fadeOut( "duration", function();
-						});
-
-					</script>
-
 			</section>
+
 			<!-- Tools -->
 			<section id="services">
 				<div class="container center">
-				<div class="center">
-					<div class="row text-center">
-						<div class="col-md-4">
-							<span class="fa-stack fa-4x">
+					<div class="center">
+						<div class="row text-center">
+							<div class="col-md-4">
+								<span class="fa-stack fa-4x">
 								<i class="fa fa-circle fa-stack-2x text-muted dp-icons"></i>
 								<i class="fa fa-code fa-stack-1x fa-inverse"></i>
-							</span>
-						</div>
+								</span>
+							</div>
 
 						<div class="col-md-4">
 							<span class="fa-stack fa-4x">
@@ -244,51 +231,39 @@
 							</span>
 						</div>
 					</div>
-
-
-								<!--
-								<div class="col-sm-6 portfolio-item">
-									<img src="images/burton.PNG" alt="burton" class="burtonImg">
-										<div class="caption">
-											<div class="caption-content">
-											<i class="fa fa-magic fa-3x"></i>
-											</div>
-											</div>
-										</div>
--->
 							<div class="col-lg-12 text-center">
 								<h2>Skills</h2>
 								<div class="title-underline">
 								</div>
-								</div>
+							</div>
+
 								<div class="flex-container">
 									<div class="skills-flexbox">
 										<div class="col-lg-3 col-md-6">
-										<div class="html-box">
+											<div class="html-box">
 											<i class="fa fa-html5"></i>
 											<p>HTML5</p>
 											</div>
 										</div>
 
 										<div class="col-lg-3 col-md-6">
-										<div class="css-box">
+											<div class="css-box">
 												<i class="fa fa-css3"></i>
 												<p>CSS3</p>
-										</div>
-									</div>
-
-											<div class="col-lg-3 col-md-6">
-												<div class="wordpress-box">
-
-													<i class="fa fa-wordpress"></i>
-														<p>Wordpress</p>
-												</div>
 											</div>
+										</div>
 
-											<div class="col-lg-3 col-md-6">
-												<div class="c++-box">
-													<i class="devicon-cplusplus-plain"></i>
-												</div>
+										<div class="col-lg-3 col-md-6">
+											<div class="wordpress-box">
+												<i class="fa fa-wordpress"></i>
+													<p>Wordpress</p>
+											</div>
+										</div>
+
+										<div class="col-lg-3 col-md-6">
+											<div class="c++-box">
+												<i class="devicon-cplusplus-plain"></i>
+											</div>
 										</div>
 								</div>
 								<div class="flex-container">
@@ -312,7 +287,7 @@
 												<p>Javascript</p>
 											</div>
 										</div>
-										</div>
+									</div>
 								</div>
 								</div>
 							</div>
@@ -331,8 +306,8 @@
 											<h3>Flek</h3>
 
 										</div>
-								</div>
 									</div>
+								</div>
 								<img class="img-fluid" src="images/full-wallart.jpg" alt="">
 							</a>
 						</div>
@@ -362,7 +337,6 @@
 
 
 
-</div>
 
 
 					<!-- Contact Form
@@ -447,8 +421,8 @@
 				</div>
 				<a id="to-top" href="#top" class="btn btn-dark btn-lg"><i class="fa fa-chevron-up fa-fw fa-1x"></i></a>
 			</footer>
-		</div>
 
+</div>
 		<!-- jQuery -->
 		<script src="vendor/jquery/jquery.min.js"></script>
 

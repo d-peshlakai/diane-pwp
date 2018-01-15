@@ -20,15 +20,19 @@ html, body {
 /* create a responsive container */
 @media only screen and (min-width: 1200px) {
 	.about-container { width: 1170px; }
+
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 	.about-container { width: 970px; }
+
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	.about-container { width: 750px; }
+
 }
+
 
 /*corrects IE min-height bug*/
 html { display: flex;}
@@ -67,7 +71,7 @@ body {width: 100%;}
 	color: white;
 }
 
-#about {
+#about-me{
 	font-family: 'Open Sans', sans-serif;
 	background-color: lavender;
 }

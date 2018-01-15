@@ -179,7 +179,7 @@
 
 
 			<!-- About Me section -->
-			<section class="about-block" id="about">
+			<section class="about-block" id="about-me">
 				<div class="center">
 					<div class="row">
 						<div class="col-lg-12 text-center">

@@ -191,7 +191,7 @@
 				</div>
 				<div class="row">
 					<div class="col-lg-4 col-lg-offset-2">
-						<p>Last summer I completed the Deep Dive Coding Bootcamp program where I studied front and back-end web development.
+						<p>I completed the Deep Dive Coding Bootcamp program where I studied front and back-end web development.
 							Web Development reveals my creativity. The bootcamp prepared me to build
 							mobile-friendly and secured websites. I utilized HTML/CSS, PHP, Javascript, Bootstrap, AngularJS, JQuery and
 							mySQL. I work well with a team and I love learning. I'm currently furthering my career by taking additional courses and

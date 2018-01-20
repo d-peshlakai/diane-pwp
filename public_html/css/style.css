@@ -271,5 +271,9 @@ p{
 }
 
 #portfolio h3 {
-	color: white;
+	color: black;
+}
+
+.dianeImg {
+	border: 1px solid black;
 }

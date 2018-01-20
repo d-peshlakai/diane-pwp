@@ -297,6 +297,8 @@
 			<section class="portfolio" id="portfolio">
 				<div class="container">
 					<h2 class="text-center text-uppercase text-secondary mb-0">Portfolio</h2>
+					<div class="title-underline">
+					</div>
 					<div class="row">
 						<div class="col-md-6 col-lg-4">
 							<a class="portfolio-item d-block mx-auto" href="#portfolio-modal-1">
@@ -304,7 +306,7 @@
 									<div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
 										<div class="portfolio-content">
 											<h3>Flek</h3>
-
+											<h4>Web Application</h4>
 										</div>
 									</div>
 								</div>

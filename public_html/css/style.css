@@ -71,7 +71,7 @@ body {width: 100%;}
 	color: white;
 }
 
-#about-me{
+.about-block{
 	font-family: 'Open Sans', sans-serif;
 	background-color: lavender;
 }
@@ -264,7 +264,7 @@ p{
 }
 
 #portfolio {
-	background-color: darkgray;
+	background-color: lavender;
 }
 .text-center {
 	text-align: center;

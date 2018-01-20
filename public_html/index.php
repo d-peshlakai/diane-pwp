@@ -306,7 +306,7 @@
 									<div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
 										<div class="portfolio-content">
 											<h3>Flek</h3>
-											<h4>Web Application</h4>
+											<p>Web Application</p>
 										</div>
 									</div>
 								</div>

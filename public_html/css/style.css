@@ -32,6 +32,7 @@ html, body {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	.about-container { width: 750px; }
+	.container.topnav {width: 750px; }
 
 }
 

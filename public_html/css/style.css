@@ -20,11 +20,13 @@ html, body {
 /* create a responsive container */
 @media only screen and (min-width: 1200px) {
 	.about-container { width: 1170px; }
+	.container.topnav {width: 1170px; }
 
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 	.about-container { width: 970px; }
+	.container.topnav {width: 970px; }
 
 }
 

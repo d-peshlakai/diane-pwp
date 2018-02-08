@@ -16,26 +16,26 @@ html, body {
 }
 /* create a responsive container */
 
-
-/* create a responsive container */
+/*
+/* create a responsive container
 @media only screen and (min-width: 1200px) {
 	.about-container { width: 1170px; }
-	.container.topnav {width: 1170px; }
+	.sfooter {width: 1170px; }
 
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 	.about-container { width: 970px; }
-	.container.topnav {width: 970px; }
+	.sfooter {width: 970px; }
 
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	.about-container { width: 750px; }
-	.container.topnav {width: 750px; }
+	.sfooter {width: 750px; }
 
 }
-
+*/
 
 /*corrects IE min-height bug*/
 html { display: flex;}
@@ -112,6 +112,7 @@ h3 {
 h4 {
 	font-family: 'Bree Serif', 'serif';
 }
+
 
 section{
 	padding: 100px 0;

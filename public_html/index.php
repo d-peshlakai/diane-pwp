@@ -54,7 +54,8 @@
 				integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
-				  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+				  integrity="
+				  sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
 
 		<!-- jQuery Form, Additional Methods, Validate -->
@@ -84,6 +85,9 @@
 
 	<body class="sfooter">
 		<div class="sfooter-content">
+
+			<header>
+
 			<!--Header and Navigation bar-->
 			<nav class="navbar navbar-inverse navbar-fixed-top topnav" role="navigation">
 				<div class="container topnav">
@@ -115,10 +119,11 @@
 				</div>
 				<!-- /.container -->
 			</nav>
-
+</header>
 			<!--Beginning row-->
 			<!-- Header -->
-			<header>
+	<body>
+		<main>
 				<a name="about">
 					<div class="intro-header">
 						<div class="about-container">
@@ -151,7 +156,6 @@
 						<!-- /.container -->
 					<!-- /.intro-header -->
 				</a>
-			</header>
 
 		<section class="services-block" id="service">
 			<div class="center">
@@ -339,8 +343,9 @@
 
 
 
+</main>
 
-
+</div> <!--sfooter-content-->
 					<!-- Contact Form
 
 			<div class="container form-wrap">
@@ -403,7 +408,7 @@
 					</div>
 				</div>
 
--->
+
 			<!-- Footer -->
 			<footer class="footer navbar fixed-bottom">
 				<div class="container">
@@ -424,7 +429,7 @@
 				<a id="to-top" href="#top" class="btn btn-dark btn-lg"><i class="fa fa-chevron-up fa-fw fa-1x"></i></a>
 			</footer>
 
-</div>
+
 		<!-- jQuery -->
 		<script src="vendor/jquery/jquery.min.js"></script>
 

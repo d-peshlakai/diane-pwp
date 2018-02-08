@@ -8,6 +8,10 @@
 html, body {
 	margin: 0;
 	box-sizing: border-box;
+	max-width: 100%;
+}
+body{
+	overflow-x: hidden;
 }
 
 .container {
@@ -130,9 +134,7 @@ p{
 	text-align: center;
 }
 
-.about-block {
-	flex: 1 0 auto;
-}
+
 
 .intro-header {
 	background-image: url(../images/dev-web.jpg);

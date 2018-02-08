@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8"/>
-		<meta http-equiv="X-UA-COMPATIBLE" content="IE-edge"/>
+		<meta http-equiv="X-UA-COMPATIBLE" content="IE=edge"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 		<meta http-equiv="Content-Type" content="text/html />
 
@@ -90,6 +90,7 @@
 
 			<!--Header and Navigation bar-->
 			<nav class="navbar navbar-inverse navbar-fixed-top topnav" role="navigation">
+				<div class="container-fluid">
 				<div class="container topnav">
 					<!-- Brand and toggle get grouped for better mobile display -->
 					<div class="navbar-header">
@@ -118,6 +119,7 @@
 					<!-- /.navbar-collapse -->
 				</div>
 				<!-- /.container -->
+					</div>
 			</nav>
 </header>
 			<!--Beginning row-->

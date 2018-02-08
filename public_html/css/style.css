@@ -10,32 +10,32 @@ html, body {
 	box-sizing: border-box;
 }
 
-#about {
+.container {
 	margin: 0 auto;
 	padding: 0 2rem;
 }
-/* create a responsive container */
 
-/*
-/* create a responsive container
+
+
+/* create a responsive container*/
 @media only screen and (min-width: 1200px) {
-	.about-container { width: 1170px; }
-	.sfooter {width: 1170px; }
+	.container { width: 1170px; }
+
 
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-	.about-container { width: 970px; }
-	.sfooter {width: 970px; }
+	.container { width: 970px; }
+
 
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-	.about-container { width: 750px; }
-	.sfooter {width: 750px; }
+	.container {  width: 750px;  }
 
 }
-*/
+
+
 
 /*corrects IE min-height bug*/
 html { display: flex;}

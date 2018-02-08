@@ -184,6 +184,7 @@
 
 			<!-- About Me section -->
 			<section class="about-block" id="about-me">
+				<div class="container">
 				<div class="center">
 					<div class="row">
 						<div class="col-lg-12 text-center">
@@ -202,9 +203,10 @@
 							working on a blog with Wordpress. I'm open for contract work. Have a question or want to work together?
 							Please send me an email.</p>
 					</div>
-					<div class="photo-container">
-						<div class="photoOfMe">
-						<img class="dianeImg" src="images/dp-pic.png" alt="photo of diane">
+						<div class="photo-container">
+							<div class="photoOfMe">
+								<img class="dianeImg" src="images/dp-pic.png" alt="photo of diane">
+							</div>
 						</div>
 					</div>
 			</section>

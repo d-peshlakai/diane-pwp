@@ -89,6 +89,7 @@
 			<header>
 
 			<!--Header and Navigation bar-->
+				<div class="container">
 			<nav class="navbar navbar-inverse navbar-fixed-top topnav" role="navigation">
 				<div class="container-fluid">
 				<div class="container topnav">
@@ -118,10 +119,12 @@
 						</ul>
 					</div>
 					<!-- /.navbar-collapse -->
-				</div>
+
+						</div>
 				<!-- /.container -->
 					</div>
 			</nav>
+					</div>
 </header>
 			<!--Beginning row-->
 			<!-- Header -->

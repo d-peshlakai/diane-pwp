@@ -8,7 +8,6 @@
 html, body {
 	margin: 0;
 	box-sizing: border-box;
-	max-width: 100%;
 }
 body{
 	overflow-x: hidden;
@@ -67,6 +66,9 @@ body {width: 100%;}
 	font-family: 'Open Sans', sans-serif;
 }
 
+.navbar-fixed-top {
+	right: 0;
+}
 
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-brand:hover {

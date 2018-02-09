@@ -24,8 +24,9 @@ body{
 
 
 /* create a responsive container*/
+/*
 @media (min-width: 1200px) {
-	.container { max-width: 970px; }
+	.container { width: 970px; }
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -34,17 +35,12 @@ body{
 
 }
 
-@media only screen and (min-width: 768px) {
-	.container {  width: 750px;  }
-	body{
-		padding-top: 10px;
-	}
-	.navbar-nav {
-		width: 100%;
-		text-align: center;
-	}
+@media only screen and (min-width: 576px) {
+	.container {  width: 540px;  }
 
 }
+*/
+/* Extra Small Devices, Phones */
 
 
 
@@ -175,12 +171,6 @@ p{
 	height: 50%;
 }
 
-
-.container.form-wrap {
-	margin-right: auto;
-	margin-left: auto;
-	padding: 100px 0;
-}
 
 
 

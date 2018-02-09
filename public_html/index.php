@@ -82,46 +82,37 @@
 
 	<body class="sfooter">
 		<div class="sfooter-content">
+			<section>
+				<header>
+					<div class="container" id="main">
 			<!--Header and Navigation bar-->
-			<nav class="navbar navbar-inverse navbar-fixed-top topnav" role="navigation">
-				<div class="container">
+						<nav class="navbar navbar-inverse navbar-fixed-top topnav" role="navigation">
+							<div class="container">
 					<!-- Brand and toggle get grouped for better mobile display -->
-					<div class="navbar-header">
-						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						</button>
-						<a class="navbar-brand topnav" href="#">Diane Peshlakai</a>
-					</div>
+								<div class="navbar-header">
+									<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+									</button>
+										<a class="navbar-brand topnav" href="#">Diane Peshlakai</a>
+								</div>
 					<!-- Collect the nav links, forms, and other content for toggling -->
-					<div class="collapse navbar-collapse" id="navbar">
-						<ul class="nav navbar-nav navbar-right">
-							<li>
-								<a class="page-scroll" href="#about">About</a>
-							</li>
-							<li>
-								<a class="page-scroll" href="#services">Skills</a>
-							</li>
-							<li>
-								<a class="page-scroll" href="#to-top">Contact</a>
-							</li>
-						</ul>
-					</div>
-					<!-- /.navbar-collapse -->
-				<!-- /.container -->
-				</div>
-			</nav>
-
-
+								<div class="collapse navbar-collapse" id="navbar">
+									<ul class="nav navbar-nav navbar-right">
+										<li><a class="page-scroll" href="#about">About</a></li>
+										<li><a class="page-scroll" href="#services">Skills</a></li>
+										<li><a class="page-scroll" href="#to-top">Contact</a></li>
+									</ul>
+						</div><!-- /.navbar-collapse -->
+				<!-- /.container --></div>
+						</nav>
+				</header>
 			<!--Beginning row-->
 			<!-- Header -->
-
-		<main>
 				<a name="about">
 					<div class="intro-header">
 						<div class="about-container">
-							<div class="container">
 								<div class="row">
 									<div class="col-lg-12">
 										<div class="intro-message">
@@ -145,11 +136,11 @@
 										</div>
 									</div>
 								</div>
-							</div>
-						</div>
-						<!-- /.container -->
+
+					</div> 	<!-- /.container -->
 					<!-- /.intro-header -->
 				</a>
+				</section>
 
 		<section class="services-block" id="service">
 			<div class="center">
@@ -335,13 +326,14 @@
 								<img class="img-fluid" src="img/portfolio/coming soon" alt="">
 							</a>
 						</div>
+
+
 			</section>
 
-
-
-</main>
+</div>
 
 </div> <!--sfooter-content-->
+
 					<!-- Contact Form
 
 			<div class="container form-wrap">

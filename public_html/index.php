@@ -32,9 +32,6 @@
 		<link href="https://fonts.googleapis.com/css?family=Marvel" rel="stylesheet">
 
 
-
-
-
 		<link href="css/style.css" rel="stylesheet" type="text/css" />
 
 
@@ -85,15 +82,12 @@
 
 	<body class="sfooter">
 		<div class="sfooter-content">
-
-
 			<!--Header and Navigation bar-->
-
 			<nav class="navbar navbar-inverse navbar-fixed-top topnav" role="navigation">
 				<div class="container">
 					<!-- Brand and toggle get grouped for better mobile display -->
 					<div class="navbar-header">
-						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false"
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false"
 						aria-controls="navbar">
 							<span class="sr-only">Toggle navigation</span>
 							<span class="icon-bar"></span>
@@ -103,8 +97,9 @@
 						<a class="navbar-brand topnav" href="#">Diane Peshlakai</a>
 					</div>
 					<!-- Collect the nav links, forms, and other content for toggling -->
-					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" aria-expanded="false" style="height: 1px;">
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<ul class="nav navbar-nav navbar-right">
+							<li class="active"><a href="#">Home</a></li>
 							<li>
 								<a class="page-scroll" href="#about">About</a>
 							</li>
@@ -117,10 +112,8 @@
 						</ul>
 					</div>
 					<!-- /.navbar-collapse -->
-
-
 				<!-- /.container -->
-					</div>
+				</div>
 			</nav>
 
 

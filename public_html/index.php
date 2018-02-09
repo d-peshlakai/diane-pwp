@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8"/>
 		<meta http-equiv="X-UA-COMPATIBLE" content="IE=edge"/>
-		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
 		<meta http-equiv="Content-Type" content="text/html />
 
 		<!-- set base for relative links - to enable pretty URLs -->
@@ -86,13 +86,11 @@
 	<body class="sfooter">
 		<div class="sfooter-content">
 
-			<header>
 
 			<!--Header and Navigation bar-->
-				<div class="container">
+
 			<nav class="navbar navbar-inverse navbar-fixed-top topnav" role="navigation">
-				<div class="container-fluid">
-				<div class="container topnav">
+				<div class="container">
 					<!-- Brand and toggle get grouped for better mobile display -->
 					<div class="navbar-header">
 						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false"
@@ -120,15 +118,15 @@
 					</div>
 					<!-- /.navbar-collapse -->
 
-						</div>
+
 				<!-- /.container -->
 					</div>
 			</nav>
-					</div>
-</header>
+
+
 			<!--Beginning row-->
 			<!-- Header -->
-	<body>
+
 		<main>
 				<a name="about">
 					<div class="intro-header">

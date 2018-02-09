@@ -21,8 +21,8 @@ body{
 
 
 /* create a responsive container*/
-@media only screen and (min-width: 1200px) {
-	.container { width: 1170px; }
+@media (min-width: 1200px) {
+	.container { max-width: 970px; }
 
 
 }
@@ -68,6 +68,11 @@ body {width: 100%;}
 
 .navbar-fixed-top {
 	right: 0;
+
+
+}
+.navbar-nav{
+	width: inherit;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover,

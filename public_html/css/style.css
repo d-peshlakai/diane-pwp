@@ -9,8 +9,11 @@ html, body {
 	margin: 0;
 	box-sizing: border-box;
 }
+
 body{
 	overflow-x: hidden;
+	padding-bottom: 70px;
+
 }
 
 .container {
@@ -31,8 +34,15 @@ body{
 
 }
 
-@media only screen and (min-width: 768px) and (max-width: 991px) {
+@media only screen and (min-width: 768px) {
 	.container {  width: 750px;  }
+	body{
+		padding-top: 10px;
+	}
+	.navbar-nav {
+		width: 100%;
+		text-align: center;
+	}
 
 }
 
@@ -60,15 +70,31 @@ body {width: 100%;}
 	border: 0;
 }
 
+.navbar-fixed-top {
+	position: fixed;
+	top: 0;
+	right: 0;
+	left: 0;
+	z-index: 1030;
+
+}
+
 
 .navbar-inverse {
 	font-family: 'Open Sans', sans-serif;
 }
 
-.navbar-fixed-top {
-	right: 0;
+.navbar-toggler-right {
+	position: absolute;
+	right: 1rem;
+}
 
-
+.navbar-toggler-icon {
+	display: inline-block;
+	width: 1.5em;
+	height: 1.5em;
+	vertical-align: middle;
+	background-size: 100%;
 }
 .navbar-nav{
 	width: inherit;

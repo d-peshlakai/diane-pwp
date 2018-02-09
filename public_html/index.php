@@ -97,7 +97,6 @@
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse" id="navbar">
 						<ul class="nav navbar-nav navbar-right">
-							<li class="active"><a href="#">Home</a></li>
 							<li>
 								<a class="page-scroll" href="#about">About</a>
 							</li>

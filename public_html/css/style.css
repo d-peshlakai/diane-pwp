@@ -166,6 +166,7 @@ p{
 	padding: 256px 0;
 	background-size: cover;
 	height: 50%;
+	margin-bottom: auto;
 
 }
 
@@ -307,6 +308,5 @@ p{
 .container {
 	padding-right: 15px;
 	padding-left: 15px;
-	margin-right: auto;
-	margin-left: auto;
+
 }

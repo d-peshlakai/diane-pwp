@@ -82,7 +82,7 @@
 
 	<body class="sfooter">
 		<div class="sfooter-content">
-			<section>
+
 				<header>
 					<div class="container" id="main">
 			<!--Header and Navigation bar-->
@@ -104,15 +104,15 @@
 										<li><a class="page-scroll" href="#services">Skills</a></li>
 										<li><a class="page-scroll" href="#to-top">Contact</a></li>
 									</ul>
-						</div><!-- /.navbar-collapse -->
+								</div><!-- /.navbar-collapse -->
 				<!-- /.container --></div>
 						</nav>
 				</header>
 			<!--Beginning row-->
-			<!-- Header -->
-				<a name="about">
+			<main>
+				<div id="home" class="jumbotron text-center"
 					<div class="intro-header">
-						<div class="about-container">
+						<!--<div class="about-container">-->
 								<div class="row">
 									<div class="col-lg-12">
 										<div class="intro-message">
@@ -137,10 +137,12 @@
 									</div>
 								</div>
 
-					</div> 	<!-- /.container -->
-					<!-- /.intro-header -->
-				</a>
-				</section>
+					<!--</div> -->	<!-- /.container -->
+					</div><!-- /.intro-header -->
+
+</div>
+
+
 
 		<section class="services-block" id="service">
 			<div class="center">
@@ -326,75 +328,9 @@
 								<img class="img-fluid" src="img/portfolio/coming soon" alt="">
 							</a>
 						</div>
-
-
 			</section>
-
+	</main>
 </div>
-
-</div> <!--sfooter-content-->
-
-					<!-- Contact Form
-
-			<div class="container form-wrap">
-				<div class="row">
-					<div class="col-lg-8 col-lg-offset-2">
-						<h4>Send a message</h4>
-						<form id="contact-form" action="php/mailer.php" method="post" novalidate>
-							<div class="form-group">
-								<label for="name">Name <span class="text-danger">*</span></label>
-								<div class="input-group">
-									<div class="input-group-addon">
-										<i class="fa fa-user" aria-hidden="true"></i>
-									</div>
-									<input type="text" class="form-control" id="name" name="name" placeholder="Name">
-								</div>
-							</div>
-							<div class="form-group">
-								<label for="email">Email <span class="text-danger">*</span></label>
-								<div class="input-group">
-									<div class="input-group-addon">
-										<i class="fa fa-envelope" aria-hidden="true"></i>
-									</div>
-									<input type="email" class="form-control" id="email" name="email" placeholder="Email">
-								</div>
-							</div>
-							<div class="form-group">
-								<label for="subject">Subject</label>
-								<div class="input-group">
-									<div class="input-group-addon">
-										<i class="fa fa-pencil" aria-hidden="true"></i>
-									</div>
-									<input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
-								</div>
-							</div>
-							<div class="form-group">
-								<label for="message">Message <span class="text-danger">*</span></label>
-								<div class="input-group">
-									<div class="input-group-addon">
-										<i class="fa fa-comment" aria-hidden="true"></i>
-									</div>
-									<textarea class="form-control" rows="5" id="message" name="message"
-												 placeholder="Message (2000 characters max)"></textarea>
-								</div>
-							</div>
-
-							<!-- google recaptcha
-							<div class="g-recaptcha" data-sitekey="6LcmnCQUAAAAAICd1OxzeVtqZMNt5xTbhiXdAYkZ"></div>
-
-							<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
-							<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
-						</form>
-
-						<!--empty area for form error/success output
-						<div class="row">
-							<div class="col-xs-12">
-								<div id="output-area"></div>
-							</div>
-						</div>
-					</div>
-					</div>
-				</div>
 
 
 			<!-- Footer -->

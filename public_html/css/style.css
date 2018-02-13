@@ -12,7 +12,6 @@ html, body {
 
 body{
 	overflow-x: hidden;
-	padding-bottom: 70px;
 
 }
 
@@ -92,9 +91,7 @@ body {width: 100%;}
 	vertical-align: middle;
 	background-size: 100%;
 }
-.navbar-nav{
-	width: inherit;
-}
+
 
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-brand:hover {
@@ -164,11 +161,12 @@ p{
 
 
 
-.intro-header {
+#home {
 	background-image: url(../images/dev-web.jpg);
-	padding: 300px 0;
+	padding: 256px 0;
 	background-size: cover;
 	height: 50%;
+
 }
 
 
@@ -205,12 +203,12 @@ p{
 
 }
 
-
+/*
 .col-lg-3 {
 	width: 100%;
 
 }
-
+*/
 .fa-html5 {
 	font-size: 4em;
 }

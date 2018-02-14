@@ -27,12 +27,17 @@ body{
 @media (min-width: 1200px) {
 	.container { width: 970px; }
 }
-
+*/
+@media (min-width: 1200px) {
+    .container{
+        max-width: 980px;
+    }
+}
+/*
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 	.container { width: 970px; }
 
 
-}
 
 @media only screen and (min-width: 576px) {
 	.container {  width: 540px;  }
@@ -63,15 +68,15 @@ body {width: 100%;}
 	border-radius: 0;
 	padding: 1% 0;
 	border: 0;
+	display: inline-block;
 }
 
 .navbar-fixed-top {
 	position: fixed;
 	top: 0;
 	right: 0;
-	left: 0;
 	z-index: 1030;
-
+	left: 0;
 }
 
 
@@ -159,6 +164,9 @@ p{
 	text-align: center;
 }
 
+.jumbotron {
+	padding: 10%;
+}
 
 
 #home {
@@ -169,6 +177,7 @@ p{
 	margin-bottom: auto;
 
 }
+
 
 
 

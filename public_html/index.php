@@ -100,13 +100,15 @@
 					<!-- Collect the nav links, forms, and other content for toggling -->
 								<div class="collapse navbar-collapse" id="navbar">
 									<ul class="nav navbar-nav navbar-right">
-										<li><a class="page-scroll" href="#about">About</a></li>
+										<li><a class="page-scroll" href="#home">About</a></li>
 										<li><a class="page-scroll" href="#services">Skills</a></li>
 										<li><a class="page-scroll" href="#to-top">Contact</a></li>
 									</ul>
 								</div><!-- /.navbar-collapse -->
-				<!-- /.container --></div>
+							</div>	<!-- /.container -->
 						</nav>
+					</div>
+						 <!--container-main-->
 				</header>
 			<!--Beginning row-->
 			<main>
@@ -139,7 +141,6 @@
 
 					<!--</div> -->	<!-- /.container -->
 					</div><!-- /.intro-header -->
-
 </div>
 
 
